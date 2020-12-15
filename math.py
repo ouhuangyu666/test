@@ -10,3 +10,4 @@ for count in range(1, 100):  # 取1-99的所有数字，顾头不顾尾
         s2 = s2 - count  # 计算1-99所有奇数的值
     s = s1 + s2  # 把所有偶数的值和奇数的值进行相加
     print(s)  # 
+    print("Hello")
